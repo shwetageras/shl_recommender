@@ -1,0 +1,20 @@
+Job Title,Job Level,Job Family,"Duration
+(in minutes)",avg_items,max_items,Skills Measured,Remote,Adaptive
+Account Manager,Mid-Professional,Sales,49,unknown,unknown,"Persistence, Sales Potential, Sales Drive, Customer Focus, Professional Potential, Confidence and Independence",Yes,Yes
+Administrative Professional,Entry-level,Business,36,151,179,"Typing Skills, Conscientiousness, Composure, Professional Potential, Drive for Success, Customer Focus",Yes,Yes
+Agency Manager,Managerial,Insurance,51,126,171,"Management Potential, Professional Potential, Thoroughness, Reliability, Achievement, Innovation, Sense of Duty, Confidence and Optimism",Yes,Yes
+Apprentice + 8.0,Apprentice,unknown,30,unknown,99,"Apprentice Potential, Listens Attentively, Accepts Others, Shows Courtesy, Creates a Positive Impression, Uses Time Efficiently, Learns Quickly, Attends to Multiple Tasks, Works to High Quality Standards, Attends to Work Reliably",Yes,No
+Administrative Assistant,Entry-level,Banking,unknown,unknown,unknown,"Typing Skills, Achievement Orientation, Conscientiousness, Professional Potential, Customer Focus",Yes,No
+Collections Agent,Entry-level,Banking,unknown,46,unknown,"Persistence, Navigation, Service Orientation, Tactful Problem Solving, Data Entry Speed, Data Entry Accuracy",Yes,No
+Bank Operations Supervisor,Leader,Banking,unknown,unknown,unknown,"Problem Solving, Management Potential, Thoroughness, Reliability, Achievement, Innovation, Influence, Independence, Professional Potential",Yes,No
+Bilingual Reservation Agent,Entry-level,Hospitality,43,91,119,"Navigation, Service Orientation, Tactful Problem Solving, Data Entry Speed, Data Entry Accuracy, Drive for Success, Conscientiousness",Yes,Yes
+"Bookkeeping, Accounting, Auditing Clerk",Entry-level,Business,49,179,132,"Data Entry Skills, Conscientiousness, Service Professionalism, Quantitative Ability, Drive for Success",Yes,Yes
+Branch Manager,Leader,Banking,unknown,unknown,unknown,"Problem Solving, Management Potential, Achievement, Flexibility, Confidence and Optimism, Thoroughness, Sense of Duty, Innovation, Influence, Independence, Professional Potential",Yes,No
+Cashier,Entry-level,Retail,21,unknown,108,"Conscientiousness, Retail Professionalism, Customer Focus",Yes,No
+Contact Center – Manager,Leader,Contact Center,unknown,unknown,unknown,"Problem Solving, Management Potential, Achievement, Flexibility, Confidence and Optimism, Thoroughness, Sense of Duty, Innovation, Influence, Independence, Professional Potential",Yes,No
+Director,Director,Business,69,unknown,216,"Leadership Professionalism, Deductive Reasoning, Director Judgment, Director Potential, Business Acumen, Building Relationships, Drive for Results, Self Motivation",Yes,Yes
+District/Regional Manager,Entry-level,Retail,65,207,222,"Director Potential, Director Judgment, Retail Professionalism, Business Acumen, Drive for Results, Building Relationships, Self-Motivation",Yes,Yes
+Event Sales Manager,Management,Hospitality,50,unknown,193,"Deductive Reasoning, Results Orientation, Assertiveness, Leadership Professionalism, Management Potential, Achievement, Confidence, Independence, Influence",Yes,Yes
+Financial Professional,Professional,Banking,unknown,unknown,unknown,"Professional Potential, Learning Potential, Achievement Orientation, Persistence and Planfulness, Customer Focus",Yes,No
+Workplace Safety Solution,Entry-level,Safety,21,unknown,107,"Achievement, Collaboration, Compliance, Confidence, Reliability, Safety Judgment, Safety Orientation",Yes,Yes
+Teller with Sales,Entry-level,Banking,36,unknown,unknown,"Customer Focus, Achievement Orientation, Learning Potential, Professional Potential, Sales Focus",Yes,No
